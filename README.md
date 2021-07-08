@@ -7,3 +7,5 @@
 [origami.pde](https://gist.github.com/tomoyk/554626adcf3a9b28308df55ec35ac7e7)
 
 [traffic-light.pde](https://gist.github.com/tomoyk/1e2922694a20d683e2ad5ed928f1712e)
+
+[eyes2.pde](https://gist.github.com/tomoyk/e89f0bce336acae5de21892f7d527225)
